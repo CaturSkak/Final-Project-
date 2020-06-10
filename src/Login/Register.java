@@ -8,10 +8,7 @@ package Login;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import koneksi.coneksi;
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class Register extends javax.swing.JFrame {
 
     /** Creates new form Register */

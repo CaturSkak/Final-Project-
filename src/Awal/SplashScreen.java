@@ -13,10 +13,7 @@ import javax.swing.JProgressBar;
 import javax.swing.JWindow;
 import javax.swing.Timer;
 import javax.swing.border.LineBorder;
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 
 public class SplashScreen extends JWindow {
     private Dimension dimensi=Toolkit.getDefaultToolkit().getScreenSize();

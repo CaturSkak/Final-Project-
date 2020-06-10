@@ -1,17 +1,13 @@
 package koneksi;
-/**
- * Nama : Ahmad Catur Yulianto
- * Nim : E31191894
- */
+
 
 import java.sql.Connection;
 import java.sql.Statement;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- * Kelas koneksi untuk menghubungkan program kita dengan DataBase
- */
+
+//Kelas koneksi untuk menghubungkan program kita dengan DataBase
 public final class Koneksi {
     public static Connection con;
     public static Statement stm;

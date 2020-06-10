@@ -2,9 +2,7 @@ package Menu;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.table.AbstractTableModel;
-/**
- * @author Ahmad Catur Yulianto
- */
+
 public class ResultSetTableModel extends AbstractTableModel {
 
     private ResultSet rs;

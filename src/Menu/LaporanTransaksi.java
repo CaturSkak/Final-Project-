@@ -6,10 +6,7 @@ import java.sql.SQLException;
 import javax.swing.table.DefaultTableModel;
 import koneksi.Koneksi;
 
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class LaporanTransaksi extends javax.swing.JFrame {
     public Connection con;
     public Statement st;

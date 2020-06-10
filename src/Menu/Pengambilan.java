@@ -7,10 +7,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import koneksi.Koneksi;
 
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class Pengambilan extends javax.swing.JFrame {
     public Connection con;
     public Statement st;

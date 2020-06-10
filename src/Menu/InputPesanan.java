@@ -9,10 +9,7 @@ import javax.swing.JOptionPane;
 import koneksi.coneksi;
 
 
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class InputPesanan extends javax.swing.JFrame {
 
     /**

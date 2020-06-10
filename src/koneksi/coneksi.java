@@ -1,12 +1,9 @@
 package koneksi;
 import com.mysql.jdbc.Driver;
-import java.sql.DriverManager;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-/**
- * @author Ahmad Catur Yulianto
- */
+
 public class coneksi {
     
     private static Connection koneksi;

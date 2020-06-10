@@ -11,10 +11,7 @@ import koneksi.Koneksi;
 
 
 
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class Ubah extends javax.swing.JFrame {
 
     /**

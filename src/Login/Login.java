@@ -4,10 +4,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 import koneksi.coneksi;
 
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class Login extends javax.swing.JFrame {
 
     /**

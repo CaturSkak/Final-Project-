@@ -8,10 +8,7 @@ import javax.swing.table.DefaultTableModel;
 import koneksi.Koneksi;
 import koneksi.coneksi;
 
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class Akun extends javax.swing.JFrame {
     public Connection con;
     public Statement st;

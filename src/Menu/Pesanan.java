@@ -9,10 +9,7 @@ import koneksi.Koneksi;
 
 
 
-/**
- *
- * @author Ahmad Catur Yulianto
- */
+
 public class Pesanan extends javax.swing.JFrame {
     public Connection con;
     public Statement st;
